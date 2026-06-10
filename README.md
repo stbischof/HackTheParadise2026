@@ -1,1 +1,1 @@
-# HachTheParadise - 2026
+# HackTheParadise - 2026
